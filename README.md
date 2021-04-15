@@ -4,9 +4,9 @@ This is the databse spreadsheet for the scheduling app I wrote for a bar I worke
 
 ## Required files:
   - Scheduling App repo: https://github.com/Brian-Demon/Scheduling-App-Google-Script
-       - *REQUIRED* -- Foloow the read me in that repo for this databse to work
-Make a copy of the following Google spreadsheet: https://docs.google.com/spreadsheets/d/13r68j68qE8r5Knwu03I_b2i8essVrncscJ5niXvm0BQ/
-Make a copy of the following Google Forms:
+       - *REQUIRED* -- Follow the read me in that repo for this databse to work
+  - Make a copy of the following Google spreadsheet: https://docs.google.com/spreadsheets/d/13r68j68qE8r5Knwu03I_b2i8essVrncscJ5niXvm0BQ/
+  - Make a copy of the following Google Forms:
   - Request Off Form: https://docs.google.com/forms/d/13AmjgmDPejRbCacIjDjs96_l-DTSjXhaaDWUMjZfVo0/edit
   - Availability Form: https://docs.google.com/forms/d/1P3azxAduBQqrLSaY7Bw27DJGiR4hyXm6bhz8CcwNCZ0/edit
 
