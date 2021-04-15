@@ -3,7 +3,8 @@
 This is the databse spreadsheet for the scheduling app I wrote for a bar I worked at.  It utilizes a frontend app (spreadsheet) also written in JS (Google Script) and two Google Forms that are interconnect for this app to function.
 
 ## Required files:
-Scheduling App repo: https://github.com/Brian-Demon/Scheduling-App-Google-Script
+  - Scheduling App repo: https://github.com/Brian-Demon/Scheduling-App-Google-Script
+       - *REQUIRED* -- Foloow the read me in that repo for this databse to work
 Make a copy of the following Google spreadsheet: https://docs.google.com/spreadsheets/d/13r68j68qE8r5Knwu03I_b2i8essVrncscJ5niXvm0BQ/
 Make a copy of the following Google Forms:
   - Request Off Form: https://docs.google.com/forms/d/13AmjgmDPejRbCacIjDjs96_l-DTSjXhaaDWUMjZfVo0/edit
