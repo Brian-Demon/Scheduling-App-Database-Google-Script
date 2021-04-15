@@ -12,7 +12,7 @@ This is the databse spreadsheet for the scheduling app I wrote for a bar I worke
 
 ## Link both newly made Forms to the newly made Scheduling App Database spreadsheet:
 1) Open the newly copied Availability Form
-2) Selected "Responses" tab mext to "Questions" tab
+2) Selected "Responses" tab next to "Questions" tab
 3) Click the three dots to the right of "0 responses"
 4) Click "Select response destination"
 5) Select radio button "Select existing spreadsheet" then click "Select"
