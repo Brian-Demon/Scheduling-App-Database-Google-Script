@@ -18,5 +18,5 @@ This is the databse spreadsheet for the scheduling app I wrote for a bar I worke
 5) Select radio button "Select existing spreadsheet" then click "Select"
 6) Select the Scheduling App Databse (be sure it's the databse)
 7) Open the Scheduling App Databse spreadsheet
-8) Change the name of the sheet named "Form Responses..." to "Availability Data From Form"
+8) Change the name of the sheet named "Form Responses 1" to "Availability Data From Form"
 9) Redo all the steps for the Request Off Form
