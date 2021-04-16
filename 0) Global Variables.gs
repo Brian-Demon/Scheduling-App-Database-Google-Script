@@ -1,4 +1,5 @@
-const ssData = SpreadsheetApp.openById('13r68j68qE8r5Knwu03I_b2i8essVrncscJ5niXvm0BQ');
+const ssID = SpreadsheetApp.getActiveSpreadsheet().getId();
+var ssData = SpreadsheetApp.openById(ssID);
 const ss = SpreadsheetApp.openById('1-9gyabLz_8QLfj2bcv05tKuqKQ8T3F_doTQ_7K5Vd1s');
 
 // ********************* // 
