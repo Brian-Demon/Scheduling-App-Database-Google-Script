@@ -19,7 +19,7 @@ This is the database spreadsheet for the scheduling app that was written for a b
 6) Select the Scheduling App Databse (be sure it's the databse)
 7) Open the Scheduling App Databse spreadsheet
 8) Change the name of the sheet named "Form Responses 1" to "Availability Data From Form"
-9) Redo all the steps for the Request Off Form
+9) Repeat all the steps for the Request Off Form
 
 ## Google Apps GitHub Assistant:
 To clone project:
