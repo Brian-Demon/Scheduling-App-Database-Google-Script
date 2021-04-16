@@ -20,3 +20,7 @@ This is the databse spreadsheet for the scheduling app I wrote for a bar I worke
 7) Open the Scheduling App Databse spreadsheet
 8) Change the name of the sheet named "Form Responses 1" to "Availability Data From Form"
 9) Redo all the steps for the Request Off Form
+
+## Google Apps GitHub Assistant:
+To clone project:
+Add Google Apps Script GitHub Assistant (https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo/related) to gain access to GitHub functionalty
