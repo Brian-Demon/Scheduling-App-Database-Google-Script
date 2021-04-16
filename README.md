@@ -25,6 +25,12 @@ This is the database spreadsheet for the scheduling app that was written for a b
 To clone project:
 Add Google Apps Script GitHub Assistant (https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo/related) to gain access to GitHub functionalty
 
+## Change Sheet ID:
+  - After cloning the repo and making a copy of the Google spreadsheet, open the spreadsheet and do the following:
+    1) Tools -> Script editor -> in "0) Global Variables" change var ss = SpreadsheetApp.openById( --THE ID OF THE DATABSE SPREADSHEET-- );
+      - The ID can be found in the URL for your newly copied spreadsheet ( https://.../spreadsheets/d/THE-SPREADSHEET-ID-IS-HERE/ )
+      - *REQUIRED* -- If you do not change the ID the code will explode
+
 ## Google Authorization Steps:
 ![Google Script Authorization Step 1](https://user-images.githubusercontent.com/74803363/115067475-9b335080-9eb6-11eb-89c7-6f7d055f6c65.PNG)
 ![Google Script Authorization Step 2](https://user-images.githubusercontent.com/74803363/115067480-9cfd1400-9eb6-11eb-8848-edc1edff84f7.PNG)
